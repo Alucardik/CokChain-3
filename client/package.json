@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alucardik/CokChain-3.git"
+  },
+  "author": "Alucardik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alucardik/CokChain-3/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Alucardik/CokChain-3#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^6.0.8",
+    "solc": "^0.8.19",
+    "web3": "^1.8.2"
+  }
+}
